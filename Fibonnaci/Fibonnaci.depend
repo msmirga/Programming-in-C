@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1665099887 source:c:\users\mackayla bae-la\documents\cit-145\fibonnaci\main.c
+	<stdio.h>
+	<stdlib.h>
+

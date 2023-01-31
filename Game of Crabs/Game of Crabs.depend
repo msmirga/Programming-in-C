@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1667515257 source:c:\users\mackayla bae-la\documents\cit-145\game of crabs\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
